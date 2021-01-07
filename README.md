@@ -1,13 +1,11 @@
 # Plaigerism_Detector
 
-## Objective
-Implementation of a plagiarism detection program to compare text files and evaluate the results of a score from [0 - 1.0]. 
 
 ## Functionality
 The program is capable of:
 - reading all text files (eg. 1.txt, 2.txt ...n.txt);
 - compare it with other files contents (eg. a.txt, b.txt...);
-- output similarity results to a comma-separated values (CSV) file
+- output similarity results to a comma-separated values (CSV) file with a score from [0 - 1.0]
 
 ## The program and Metric
 - Use of java programming language 
